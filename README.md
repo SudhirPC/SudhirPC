@@ -1,10 +1,10 @@
-### Hi there 👋 I am Sudhir
+ ### Hi there 👋 I am Sudhir
 
 
-<!-- <h2 align="center">Just a Introduction
+<h2 align="center">Just a Introduction
 </h2>
 
-Hi, I'm Sudhir Chavhan, A Student and Learner 🚀 from Nagpur, India, currently 💻 doing my Full Stack Development at Masai School. I am passionate about technology and want to learn & explore new technologies I'm a #####Masai School Student, [@Masai School](https://in.linkedin.com/school/masai-school/). I love playing Cricket anddoing Farming in free time.
+Hi, I'm Sudhir Chavhan, A Student and Learner 🚀 from Nagpur, India, currently 💻 doing my Full Stack Development at Masai School. I am passionate about technology and want to learn & explore new technologies I'm a #####Masai School Student, [@Masai School](https://in.linkedin.com/school/masai-school/). I love playing Cricket and doing Farming in free time.
 
 </br>
 </hr>
@@ -29,19 +29,19 @@ Hi, I'm Sudhir Chavhan, A Student and Learner 🚀 from Nagpur, India, currently
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
 </a>
 <!-- 
-<a href="https://www.instagram.com/vaibhavdarwekar/?hl=en">
+<a href="https://www.instagram.com/chavhansudhir/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a> -->
-  <a href="vamanganbote93@gmail.com">
+  <a href="sudhirchavhan100@gmail.com">
  <img src= https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white />
   </a>
 
-<a href="https://www.linkedin.com/in/vaman-ganbote/">
+<a href="https://www.linkedin.com/in/sudhirpc/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
 <!-- 
-<a href="https://www.facebook.com/vaibhav.darwekar.50">
+<a href="https://www.facebook.com/sudhir.chavhan.583/">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
 </a>
 
@@ -80,14 +80,14 @@ Hi, I'm Sudhir Chavhan, A Student and Learner 🚀 from Nagpur, India, currently
   My Contribution Graph <img src="https://media.giphy.com/media/xUA7aZeLE2e0P7Znz2/giphy.gif" width="50">
 </h2>
 <p align="center">
-  <img src="https://github.com/Vaman93/Vaman93/blob/output/github-contribution-grid-snake.svg" alt="snake"></center>
+  <img src="https://github.com/SudhirPC/SudhirPC/blob/output/github-contribution-grid-snake.svg" alt="snake"></center>
 </p>
 
 <h2 align="center">
   My Github Stats<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
 </h2>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vaman93&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vaman93&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SudhirPC&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SudhirPC&theme=tokyonight)
 
-<hr> -->
+<hr> 
