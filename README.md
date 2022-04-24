@@ -4,7 +4,7 @@
 <h2 align="center">Just a Introduction
 </h2>
 
-Hi, I'm Sudhir Chavhan, A Student and Learner 🚀 from Nagpur, India, currently 💻 doing my Full Stack Development at Masai School. I am passionate about technology and want to learn & explore new technologies I'm a #####Masai School Student, [@Masai School](https://in.linkedin.com/school/masai-school/). I love playing Cricket and doing Farming in free time.
+Hi, I'm Sudhir Chavhan, A Student and Learner 🚀 from Nagpur, India, currently 💻 doing my Full Stack Development at Masai School. I am passionate about technology and want to learn & explore new technologies I'm Masai School Student, [@Masai School](https://in.linkedin.com/school/masai-school/). I love playing Cricket and doing Farming in free time.
 
 </br>
 </hr>
@@ -40,12 +40,12 @@ Hi, I'm Sudhir Chavhan, A Student and Learner 🚀 from Nagpur, India, currently
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
-<!-- 
-<a href="https://www.facebook.com/sudhir.chavhan.583/">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
-</a>
 
- -->
+<!-- <a href="https://www.facebook.com/sudhir.chavhan.583/">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+</a> -->
+
+
 </div>
 
 
