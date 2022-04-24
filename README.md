@@ -76,12 +76,20 @@ Hi, I'm Sudhir Chavhan, A Student and Learner 🚀 from Nagpur, India, currently
 </div>
 </p>
 
-<h2 align="center">
-  My Contribution Graph <img src="https://media.giphy.com/media/xUA7aZeLE2e0P7Znz2/giphy.gif" width="50">
-</h2>
-<p align="center">
-  <img src="https://github.com/SudhirPC/SudhirPC/blob/output/github-contribution-grid-snake.svg" alt="snake"></center>
-</p>
+<h3>Status</h3>
+
+<h5>Contribution graph</h5>
+
+[![Sudhir's github activity graph](https://activity-graph.herokuapp.com/graph?username=SudhirPC&theme=react-dark)](https://github.com/SudhirPC/github-readme-activity-graph)
+
+![Sudhir's GitHub stats](https://github-readme-stats.vercel.app/api?username=SudhirPC&show_icons=true&theme=radical)
+
+<h5>Languages</h5>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=SudhirPC&show_icons=true&locale=en&layout=compact&hide=css" alt="SudhirPC" /></p>
+
+<h5>Streaks</h5>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SudhirPC&" alt="SudhirPC" /></p>
 
 <h2 align="center">
   My Github Stats<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
