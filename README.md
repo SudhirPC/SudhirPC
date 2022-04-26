@@ -1,4 +1,4 @@
- ### Hi there 👋 I am Sudhir
+ ### Hi 👋 I am Sudhir
 
 
 <h2 align="center">Just a Introduction
