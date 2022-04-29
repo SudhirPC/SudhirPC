@@ -26,6 +26,10 @@ Hi, I'm Sudhir Chavhan, A Student and Learner 🚀 from Nagpur, India, currently
 
 <div align="center">
 <p align="center">Let's connect!</p>
+ <a href="https://www.linkedin.com/in/sudhirpc/">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+ 
 <a href="https://twitter.com/SudhirChavhan27">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
 </a>
@@ -37,9 +41,7 @@ Hi, I'm Sudhir Chavhan, A Student and Learner 🚀 from Nagpur, India, currently
  <img src= https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white />
   </a>
 
-<a href="https://www.linkedin.com/in/sudhirpc/">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
+
 
 
 <!-- <a href="https://www.facebook.com/sudhir.chavhan.583/">
