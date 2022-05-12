@@ -22,6 +22,7 @@ Hi, I'm Sudhir Chavhan, A Student and Learner 🚀 from Nagpur, India, currently
 - 👯 I’m looking to collaborate and make any tech community
 - 😄 Pronouns He/Him
 - 📫 Portfolio - "https://sudhirchavhan-portfolio.vercel.app"
+<!-- - <p>https://sudhir-portfolio.vercel.app/</p> -->
 
 
 <div align="center">
