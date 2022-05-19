@@ -25,8 +25,8 @@ Hi, I'm Sudhir Chavhan, A Student and Learner 🚀 from Nagpur, India, currently
 <!-- - <p>https://sudhir-portfolio.vercel.app/</p> -->
 
 
-<div align="center">
-<p align="center">Let's connect!</p>
+<div >
+<p >Let's connect!</p>
  <a href="https://www.linkedin.com/in/sudhirpc/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
