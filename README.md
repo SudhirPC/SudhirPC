@@ -14,6 +14,9 @@ Hi, I'm Sudhir Chavhan, A Student and Learner 🚀 from Nagpur, India, currently
 </h2>
 <!--   align="left" -->
   <div display="flex">
+    <div >
+  <img  alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
+  </div>
    <div >
 - 🧑 I’m currently partcipating in as much Hackathons as I can </br>
 - 🌱 I’m currently Masai School Student</br>
@@ -24,9 +27,7 @@ Hi, I'm Sudhir Chavhan, A Student and Learner 🚀 from Nagpur, India, currently
 - 📫 Portfolio - "https://sudhirchavhan-portfolio.vercel.app"
 <!-- - <p>https://sudhir-portfolio.vercel.app/</p> -->
  </div>
-    <div >
-  <img  alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
-  </div>
+ 
 </div>
 
 
