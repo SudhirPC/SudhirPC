@@ -12,23 +12,29 @@ Hi, I'm Sudhir Chavhan, A Student and Learner 🚀 from Nagpur, India, currently
 <h2 align="center">Talking about Personal Stuffs 
 
 </h2>
-
-  <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
-
-- 🧑 I’m currently partcipating in as much Hackathons as I can
-- 🌱 I’m currently Masai School Student
-- 🌱 I’m FullStack Web Developer
-- 💬 Ask me about anything, I am happy to help
-- 👯 I’m looking to collaborate and make any tech community
-- 😄 Pronouns He/Him
+<!--   align="left" -->
+  <div display="flex">
+   <div >
+- 🧑 I’m currently partcipating in as much Hackathons as I can </br>
+- 🌱 I’m currently Masai School Student</br>
+- 🌱 I’m Full Stack Web Developer</br>
+- 💬 Ask me about anything, I am happy to help</br>
+- 👯 I’m looking to collaborate and make any tech community</br>
+- 😄 Pronouns He/Him </br>
 - 📫 Portfolio - "https://sudhirchavhan-portfolio.vercel.app"
 <!-- - <p>https://sudhir-portfolio.vercel.app/</p> -->
+ </div>
+    <div >
+  <img  alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
+  </div>
+</div>
 
 
-<div >
+<div align="center" >
 <p >Let's connect!</p>
  <a href="https://www.linkedin.com/in/sudhirpc/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+ 
 </a>
  
 <a href="https://twitter.com/SudhirChavhan27">
