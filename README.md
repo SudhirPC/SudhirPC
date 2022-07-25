@@ -2,6 +2,7 @@
 
 
 
+
 <h2 align="center">Just a Introduction
 </h2>
 
@@ -15,7 +16,7 @@ Hi, I'm Sudhir Chavhan, A Student and Learner 🚀 from Nagpur, India, currently
 <!--   align="left" -->
   <div display="flex">
     <div >
-  <img  alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
+  <img  alt="GIF" src="https://user-images.githubusercontent.com/97445870/180797867-58b38580-db28-48a1-943b-cfd98f9118e4.gif" />
   </div>
    <div >
 - 🧑 I’m currently partcipating in as much Hackathons as I can </br>
