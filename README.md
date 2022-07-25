@@ -16,10 +16,10 @@ Hi, I'm Sudhir Chavhan, A Student and Learner 🚀 from Nagpur, India, currently
 <!--   align="left" -->
   <div display="flex">
     <div >
-  <img  alt="GIF" src="https://user-images.githubusercontent.com/97445870/180797867-58b38580-db28-48a1-943b-cfd98f9118e4.gif" />
+  <img style="margin-left=250px;" alt="GIF" src="https://user-images.githubusercontent.com/97445870/180797867-58b38580-db28-48a1-943b-cfd98f9118e4.gif" />
   </div>
    <div >
-- 🧑 I’m currently partcipating in as much Hackathons as I can </br>
+- 🧑 I’m currently partcipating in as much Hackar-Rank as I can </br>
 - 🌱 I’m currently Masai School Student</br>
 - 🌱 I’m Full Stack Web Developer</br>
 - 💬 Ask me about anything, I am happy to help</br>
