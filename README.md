@@ -25,7 +25,8 @@ Hi, I'm Sudhir Chavhan, A Student and Learner 🚀 from Nagpur, India, currently
 - 💬 Ask me about anything, I am happy to help</br>
 - 👯 I’m looking to collaborate and make any tech community</br>
 - 😄 Pronouns He/Him </br>
-- 📫 Portfolio - "https://sudhirchavhan-portfolio.vercel.app"
+- 📫 Portfolio - "https://portfolio-sudhir-chavhan.vercel.app/"
+
 
  </div>
  
@@ -45,7 +46,7 @@ Hi, I'm Sudhir Chavhan, A Student and Learner 🚀 from Nagpur, India, currently
 <!-- 
 <a href="https://www.instagram.com/chavhansudhir/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-</a> -->
+</a> - 📫 Portfolio - "https://sudhirchavhan-portfolio.vercel.app" -->
 <!--   <a href="sudhirchavhan100@gmail.com">
  <img src= https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white />
   </a> -->
