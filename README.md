@@ -16,7 +16,7 @@ Hi, I'm Sudhir Chavhan, A Student and Learner 🚀 from Nagpur, India, currently
 <!--   align="left" -->
   <div display="flex">
     <div >
-  <img style="margin-left=250px;" alt="GIF" src="https://user-images.githubusercontent.com/97445870/180797867-58b38580-db28-48a1-943b-cfd98f9118e4.gif" />
+  <img style="margin-left=250px;" alt="GIF" src="https://camo.githubusercontent.com/1c599fd918f649ead173975ee0cb6ce72c47d2765e2813f608f7282a74407e26/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f38333648694a633770677a7938694e58436e2f67697068792e676966" />
   </div>
    <div >
 - 🧑 I’m currently partcipating in as much Hackar-Rank as I can </br>
@@ -66,7 +66,7 @@ Hi, I'm Sudhir Chavhan, A Student and Learner 🚀 from Nagpur, India, currently
 
 <h1></h1>
 <p align="center">
-  <h2 align="center">Technology Stack  <img src="https://github.com/Vaman93/Vaman93/blob/main/image/laptop.gif" width="50"></h2>
+  <h2 align="center">Technology Stack  <img src="https://github.com/SudhirPC/SudhirPC/blob/main/image/laptop.gif" width="50"></h2>
 <div align="center">
    <img src="https://img.shields.io/badge/-HTML-c58545?style=for-the-badge&logo=html5&logoColor=c58545&labelColor=282828">
    <img src="https://img.shields.io/badge/-CSS-d1a01f?style=for-the-badge&logo=css3&logoColor=d1a01f&labelColor=282828">
