@@ -19,7 +19,7 @@ Hi, I'm Sudhir Chavhan, A Student and Learner 🚀 from Nagpur, India, currently
   <img style="margin-left=250px;" alt="GIF" src="https://camo.githubusercontent.com/1c599fd918f649ead173975ee0cb6ce72c47d2765e2813f608f7282a74407e26/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f38333648694a633770677a7938694e58436e2f67697068792e676966" />
   </div>
    <div >
-- 🧑 I’m currently partcipating in as much Hacker-Rank as I can, </br> till now I got 4 star on Hacker-Rank
+- 🧑 I’m currently partcipating in as much Hacker-Rank as I can, till now I got 4 star on Hacker-Rank </br>
 - 🌱 I’m currently Masai School Student</br>
 - 🌱 I’m Full Stack Web Developer</br>
 - 💬 Ask me about anything, I am happy to help</br>
