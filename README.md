@@ -23,7 +23,7 @@
               />
             </a>
             <a href="https://github.com/SudhirPC?tab=followers">
-              <img
+              <img margin-left="20%"
                 src="https://img.shields.io/github/followers/SudhirPC?label=Followers&style=social"
                 alt="followers-count"
               />
@@ -31,7 +31,7 @@
           </p>
           <br />
         <img align="center" src="https://camo.githubusercontent.com/1c599fd918f649ead173975ee0cb6ce72c47d2765e2813f608f7282a74407e26/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f38333648694a633770677a7938694e58436e2f67697068792e676966"/>
-        <h2><i>Tech Stack</i></h2>
+        <h2 align="center"><i>Tech Stack</i></h2>
         <p>
         <img
           src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"
@@ -87,8 +87,8 @@
     <img src="https://img.shields.io/badge/Chakra%20UI-3bc7bd?style=for-the-badge&logo=chakraui&logoColor=white"/>
       </p>
       <br />
-      <h2><i>Let's Connect</i></h2>
-      <p align="left">
+       <h2 align="center"><i>Let's Connect</i> </h2>
+      <p align="center">
         <a href="https://www.linkedin.com/in/sudhirpc/">
           <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"alt="https://www.linkedin.com/in/sudhirpc/" />
         </a>
@@ -118,15 +118,9 @@
         </a>
       </p>
       <br />
+       <h2 align="center"><i>My Github Stats<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"></i> </h2>
+
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=SudhirPC&show_icons=true&locale=en&layout=compact&hide=css" alt="SudhirPC"/>
-    <h2><i>Streaks</i></h2>
- <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SudhirPC&" alt="SudhirPC" />
-    
-    <h1 align="center">
-        My Github Stats
-        <img
-          src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif"
-          width="35"
-        />
-      </h1>
-      <br />
+    <h2 align="center"><i>Streaks</i></h2>
+    <a align="center"> <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SudhirPC&" alt="SudhirPC" /> </a>
+
