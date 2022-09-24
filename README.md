@@ -11,28 +11,32 @@
         />
       </h1>
       <br/>
-      <h3><i>- I am a Full Stack Developer and passionate about technology and want to learn & explore new technologies.</i> <br/>
+      <p align="center">
+<h3 align="left"><i>- I am a Full Stack Web Developer and Passionate about Technology and want to learn & explore new &nbsp &nbsp &nbsp &nbsp technologies.</i><br/>
        <i>- I'm Masai School Student, @Masai School. </i> <br/>
        <i>-I love playing Cricket and doing Farming in free time. </i> </h3>
        <br/>
        <p align="left">
             <a href="https://github.com/SudhirPC">
-              <img
+              <img 
                 src="https://komarev.com/ghpvc/?username=SudhirPC&label=Profile%20views&color=0e75b6&style=flat"
                 alt="SudhirPC"
               />
             </a>
             <a href="https://github.com/SudhirPC?tab=followers">
-              <img margin-left="20%"
+              <img  margin-top=40
                 src="https://img.shields.io/github/followers/SudhirPC?label=Followers&style=social"
                 alt="followers-count"
               />
             </a>
           </p>
+        </p>
           <br />
+          <p align="center">
         <img align="center" src="https://camo.githubusercontent.com/1c599fd918f649ead173975ee0cb6ce72c47d2765e2813f608f7282a74407e26/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f38333648694a633770677a7938694e58436e2f67697068792e676966"/>
+        </p>
         <h2 align="center"><i>Tech Stack</i></h2>
-        <p>
+        <p align="center">
         <img
           src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"
           alt="html5"
@@ -119,8 +123,8 @@
       </p>
       <br />
        <h2 align="center"><i>My Github Stats<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"></i> </h2>
-
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=SudhirPC&show_icons=true&locale=en&layout=compact&hide=css" alt="SudhirPC"/>
+       <p align="center">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=SudhirPC&show_icons=true&locale=en&layout=compact&hide=css" alt="SudhirPC"/></p>
     <h2 align="center"><i>Streaks</i></h2>
-    <a align="center"> <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SudhirPC&" alt="SudhirPC" /> </a>
+    <p align="center"> <img  src="https://github-readme-streak-stats.herokuapp.com/?user=SudhirPC&" alt="SudhirPC" /> </p>
 
