@@ -122,9 +122,9 @@
         </a>
       </p>
        <h2 align="center"><i>My Github Stats<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"></i> </h2>
-       <p align="left" display="flex">
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=SudhirPC&show_icons=true&locale=en&layout=compact&hide=css" width="250" alt="SudhirPC"/>
-<img align="right"src="https://github-readme-stats.vercel.app/api?username=SudhirPC&theme=radical"  width="250"  alt="" />
+       <p align="cneter" display="flex">
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=SudhirPC&show_icons=true&locale=en&layout=compact&hide=css" width="350" alt="SudhirPC"/>
+<img align="right"src="https://github-readme-stats.vercel.app/api?username=SudhirPC&theme=radical"  width="350"  alt="" />
 </p>
  
 
