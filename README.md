@@ -121,12 +121,10 @@
           />
         </a>
       </p>
-      <br />
        <h2 align="center"><i>My Github Stats<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"></i> </h2>
        <p align="center">
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=SudhirPC&show_icons=true&locale=en&layout=compact&hide=css" alt="SudhirPC"/></p>
-<img src="https://github-readme-stats.vercel.app/api?username=SudhirPC&theme=radical" alt="" />
-
-    <h2 align="center"><i>Streaks</i></h2>
-    <p align="center"> <img  src="https://github-readme-streak-stats.herokuapp.com/?user=SudhirPC&" alt="SudhirPC" /> </p>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=SudhirPC&show_icons=true&locale=en&layout=compact&hide=css" alt="SudhirPC"/>
+<img align="right"src="https://github-readme-stats.vercel.app/api?username=SudhirPC&theme=radical" alt="" />
+</p>
+ 
 
