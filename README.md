@@ -13,7 +13,7 @@
       <br/>
       <p align="center">
 <h3 align="left"><i>- I am a Full Stack Web Developer and Passionate about Technology and want to learn & explore new &nbsp &nbsp &nbsp &nbsp technologies.</i><br/>
-       <i>- I'm Masai School Student, @Masai School. </i> <br/>
+       <i>- I'm Full Stack Developer, @Taxmann. </i> <br/>
        <i>-I love playing Cricket and doing Farming in free time. </i> </h3>
        <br/>
        <p align="left">
