@@ -14,7 +14,7 @@
 
 ### 👨‍💻 About Me
 
-- 💼 Full Stack Developer @ [Taxmann](https://www.taxmann.com/)
+- 💼 Full Stack Developer @ [Deloitte](https://www.deloitte.com/)
 - 🧠 Always exploring the latest in web tech — React, Node, MongoDB, TypeScript, and beyond
 - ⚙️ Love building scalable apps, reusable components, and sleek UIs
 - 🌿 When not coding, I'm either on the cricket pitch 🏏 or working on my farm 🚜
